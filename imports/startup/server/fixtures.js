@@ -1,0 +1,15 @@
+import  "./../../api/users/server/users.fixitures.js";
+import  "./../../api/recorders/server/recorders.fixitures.js";
+import  "./../../api/series/server/series.fixitures.js";
+import  "./../../api/etuves/server/etuves.fixitures.js";
+import  "./../../api/hfCampaign/server/hfCampaign.fixitures.js";
+import  "./../../api/sites/server/sites.fixitures.js";
+import  "./../../api/clients/server/clients.fixitures.js";
+import  "./../../api/pictures/server/pictures.fixitures.js";
+//TRB CAST
+import  "./../../api/pfinis/server/pfinis.fixitures.js";
+import  "./../../api/types/server/types.fixitures.js";
+import  "./../../api/factories/server/factories.fixitures.js";
+import  "./../../api/products/server/products.fixitures.js";
+import  "./../../api/perf-delta/server/perf-delta.fixitures.js";
+import  "./../../api/batches/server/batches.fixitures.js";
